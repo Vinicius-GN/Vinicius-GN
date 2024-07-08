@@ -1,6 +1,5 @@
 <h1 align="center">Vinicius Gustierrez Neves</h1>
 
-## Oiii eu sou o Vinicius Gustierrez Neves, desenvolvedor frontend!
 
 <div style="display: flex; justify-content: space-between;">
   <img align="center" title="C" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
