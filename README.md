@@ -4,7 +4,11 @@
 
 ###
 
-<h5 align="center">Vinicius Gustierrez Neves</h5>
+<h2 align="center">Vinicius Gustierrez Neves</h2>
+
+###
+
+<p align="center">Olá, sou estudante de Bacharelado em Ciências da Computação no exemplar Insituito de Ciências Matemáticas e de Computação na USP de São Carlos (ICMC - USP). Atualmente, estou em meu quarto periodo de graduação e tenho aprendido temáticas como programação, algotritmos, visão computacional, inteligencia artificial e robótica.</p>
 
 ###
 
@@ -26,11 +30,9 @@
 
 ###
 
-<p align="left">Olá, sou estudante de Bacharelado em ciencias da computação ni exemplar insituito de ciencias mateamticas e de computação na usp de são carlos (ICMC - USP). Atualmente, estou em meu quarto periodo de graduação e tenho aprendido temáticas como programação em geral (não sei oq colocar), algotritmos, Visão computacional, inteligencia artificial, robótica</p>
+<hr>
 
-###
-
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
@@ -49,12 +51,8 @@
 
 ###
 
-<p align="left">Textozasso</p>
+<p align="center">Textozasso</p>
 
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/Vinicius-GN/Vinicius-GN/output/snake.svg" alt="Snake animation" />
-
-###
