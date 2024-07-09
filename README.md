@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Olá, sou estudante de Bacharelado em Ciências da Computação no exemplar Insituito de Ciências Matemáticas e de Computação da USP de São Carlos (ICMC - USP). Atualmente, estou em meu quarto periodo de graduação e tenho aprendido temáticas como programação, algotritmos, visão computacional, inteligencia artificial e robótica.</p>
+<p align="center">Olá, sou estudante de Bacharelado em Ciências da Computação no renomado Instituto de Ciências Matemáticas e de Computação da USP de São Carlos (ICMC - USP). Durante minha graduação, tenho adquirido conhecimentos sólidos em áreas como programação, algoritmos, visão computacional, inteligência artificial e robótica.</p>
 
 ###
 
