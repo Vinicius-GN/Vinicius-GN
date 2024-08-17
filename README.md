@@ -61,7 +61,7 @@
 
 <h3 align="center">About me:</h2>
 
-<p align="center">AAtualmente, sou estudante de Ciências da Computação na Universidade de São Paulo (USP) e integrante do grupo extracurricular SEMEAR, da Escola de Engenharia de São Carlos (EESC). Essa participação tem me proporcionado a oportunidade de ampliar meus conhecimentos em robótica móvel autônoma.</p>
+<p align="center">Atualmente, sou estudante de Ciências da Computação na Universidade de São Paulo (USP) e integrante do grupo extracurricular SEMEAR, da Escola de Engenharia de São Carlos (EESC). Essa participação tem me proporcionado a oportunidade de ampliar meus conhecimentos em robótica móvel autônoma.</p>
 
 
 <p align="center">Iniciei minha trajetória na programação em 2017, através da robótica, onde reconheci o impacto significativo da computação na vida dos jovens. Desde então, robótica e programação têm sido áreas de profundo interesse e dedicação.</p>
